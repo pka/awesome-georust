@@ -34,6 +34,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [GEOS](https://github.com/georust/geos) - Bindings for the Geometry Engine - Open Source (GEOS) library.
 * [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
+* [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 
 ### Handling GIS data formats
 * [GDAL](https://github.com/georust/gdal) - Bindings for the Geographic Data Abstraction Library (GDAL) for reading and writing raster and vector GIS files.
@@ -55,6 +56,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler 
 
 ### Spatial index / Search
+* [rstar](https://github.com/Stoeoef/rstar) - R\*-tree library for the rust ecosystem.
 * [kdbush](https://github.com/pka/rust-kdbush) - A Rust port of kdbush, a fast static spatial index for 2D points.
 
 ### 3D
