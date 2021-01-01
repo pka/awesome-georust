@@ -44,7 +44,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [GPX](https://github.com/georust/gpx) - Work with GPS files.
 * [GeoTIFF](https://github.com/georust/geotiff) - Work with GeoTIFF raster files.
 * [netCDF](https://github.com/georust/netcdf) - Bindings for Network Common Data Form (netCDF) library. Can read and write HDF5 files.
-* [Shapefile](https://github.com/georust/shapefile) - Work with shape (SHP) files.
+* [shapefile-rs](https://github.com/tmontaigu/shapefile-rs) - Rust library to read & write shapefiles.
 * [TileJSON](https://github.com/georust/tilejson) - Work with TileJSON files.
 * [Transit](https://github.com/georust/transitfeed) - Work with GTFS files.
 * [WKT](https://github.com/georust/wkt) - Work with Well-Known Text (WKT) files.
