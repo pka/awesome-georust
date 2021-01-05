@@ -76,6 +76,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API 
 
 ### Applications
+* [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
 * [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 
 ## Resources
