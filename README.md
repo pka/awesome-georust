@@ -37,6 +37,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib in Rust.
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
+* [earcutr](https://github.com/donbright/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
 
 ### Handling GIS data formats
 * [GDAL](https://github.com/georust/gdal) - Bindings for the Geographic Data Abstraction Library (GDAL) for reading and writing raster and vector GIS files.
