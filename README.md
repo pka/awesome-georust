@@ -2,7 +2,7 @@
 
 [<img src="https://georust.org/logo.png" align="right" width="100">](https://georust.org/)
 
-> A curated list of awesome geospatial software, libraries, tools and resources, written in [Rust](https://www.rust-lang.org/)
+> A curated list of awesome geospatial software, libraries, tools and resources, written in Rust
 
 [Rust](https://www.rust-lang.org/), a language empowering everyone
 to build reliable and efficient software.
@@ -81,18 +81,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 
 ## Resources
-
-### Tutorials
-
-
-### Blogs
-
-
-### Articles
-
-
-### Videos
-
 
 ### Community
 * [Discord](https://discord.gg/Fp2aape) - GeoRust Discord channel
