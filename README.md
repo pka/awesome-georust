@@ -36,6 +36,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
 * [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib in Rust.
+* [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
 * [earcutr](https://github.com/donbright/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
 
