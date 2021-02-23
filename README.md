@@ -37,8 +37,11 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib in Rust.
 * [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
+* [intersect2d](https://github.com/eadf/intersect2d.rs) - Line intersection sweep-line algorithm
+* [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
 * [earcutr](https://github.com/donbright/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
+* [tile-grid](https://crates.io/crates/tile-grid) - Library for map tile grid calculations.
 
 ### Handling GIS data formats
 * [GDAL](https://github.com/georust/gdal) - Bindings for the Geographic Data Abstraction Library (GDAL) for reading and writing raster and vector GIS files.
