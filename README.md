@@ -14,6 +14,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 - [Awesome Geo Rust](#awesome-geo-rust-)
     - [Geospatial primitives and algorithms](#geospatial-primitives-and-algorithms)
     - [Handling GIS data formats](#handling-gis-data-formats)
+    - [Raster and image processing](#raster-and-image-processing)
     - [OSM data handling](#osm-data-handling)
     - [Spatial index / Search](#spatial-index--search)
     - [3D](#3d)
@@ -57,6 +58,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [World file](https://github.com/georust/world-file) - Work with World-files.
 * [FlatGeobuf](https://github.com/flatgeobuf/flatgeobuf) - A performant binary encoding for geographic data based on flatbuffers.
 * [las-rs](https://github.com/gadomski/las-rs) - Read and write ASPRS las files.
+
+### Raster and image processing
+* [rasters.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
 
 ### OSM data handling
 * [OSM](https://github.com/georust/osm) - Work with the OpenStreetMaps PBF files.
