@@ -21,13 +21,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
     - [Geocoding](#geocoding)
     - [Routing](#routing)
     - [Web Services](#web-services)
+    - [Map rendering](#map-rendering)
     - [Applications](#applications)
 - [Resources](#resources)
-    - [Tutorials](#tutorials)
-    - [Blogs](#blogs)
-    - [Articles](#articles)
-    - [Documentation](#documentation)
-    - [Videos](#videos)
     - [Community](#community)
 
 ### Geospatial primitives and algorithms
@@ -43,6 +39,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
 * [earcutr](https://github.com/donbright/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
 * [tile-grid](https://crates.io/crates/tile-grid) - Library for map tile grid calculations.
+* [zonebuilder](https://github.com/zonebuilders/zonebuilder-rust) - Build zones for large geographic regions.
 
 ### Handling GIS data formats
 * [GDAL](https://github.com/georust/gdal) - Bindings for the Geographic Data Abstraction Library (GDAL) for reading and writing raster and vector GIS files.
@@ -68,7 +65,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler 
 
 ### Spatial index / Search
-* [rstar](https://github.com/Stoeoef/rstar) - R\*-tree library for the rust ecosystem.
+* [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
 * [kdbush](https://github.com/pka/rust-kdbush) - A Rust port of kdbush, a fast static spatial index for 2D points.
 
 ### 3D
@@ -87,6 +84,9 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [t-rex](https://t-rex.tileserver.ch/) - Vector tile server specialized on publishing MVT tiles from your own data
 * [Martin](https://github.com/urbica/martin) - Blazing fast and lightweight PostGIS vector tiles server
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API 
+
+### Map rendering
+* [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer
 
 ### Applications
 * [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
