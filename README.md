@@ -33,6 +33,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
 * [spade](https://github.com/Stoeoef/spade) - Spatial Data Structures for Rust.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib in Rust.
+* [S2](https://github.com/danhhz/s2) - S2 spherical geometry library in Rust.
 * [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
 * [intersect2d](https://github.com/eadf/intersect2d.rs) - Line intersection sweep-line algorithm
 * [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust
