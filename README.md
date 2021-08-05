@@ -65,6 +65,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ### OSM data handling
 * [osmpbfreader-rs](https://github.com/TeXitoi/osmpbfreader-rs) - Read OpenStreetMap PBF files.
 * [osm_boundaries_utils_rs](https://github.com/Qwant/osm_boundaries_utils_rs) - Read OpenStretMap relations with type=boundary as valid MultiPolygon.
+* [osm-transit-extractor](https://github.com/CanalTP/osm-transit-extractor) - Extract OSM public transport data and write to CSV files.
 * [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
 * [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies
 
@@ -81,6 +82,7 @@ More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 ### Geocoding
 * [GeoHash](https://github.com/georust/geohash) - Compute geohash of locations.
 * [Geocoding](https://github.com/georust/geocoding) - Enrich addresses, cities, countries with geographic coordinates through third-party geocoding web services.
+* [Mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data).
 
 ### Routing
 * [Fast Paths](https://github.com/easbar/fast_paths) - Fast shortest path calculations for Rust.
