@@ -63,9 +63,12 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [rasters.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
 
 ### OSM data handling
-* [OSM](https://github.com/georust/osm) - Work with the OpenStreetMaps PBF files.
+* [osmpbfreader-rs](https://github.com/TeXitoi/osmpbfreader-rs) - Read OpenStreetMap PBF files.
 * [osm_boundaries_utils_rs](https://github.com/Qwant/osm_boundaries_utils_rs) - Read OpenStretMap relations with type=boundary as valid MultiPolygon.
 * [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
+* [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies
+
+More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 
 ### Spatial index / Search
 * [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
