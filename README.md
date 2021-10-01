@@ -97,8 +97,9 @@ More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 * [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer
 
 ### Applications
-* [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
 * [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+* [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
+* [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
 
 ## Resources
 
