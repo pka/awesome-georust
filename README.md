@@ -50,6 +50,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [GeoTIFF](https://github.com/georust/geotiff) - Work with GeoTIFF raster files.
 * [image-tiff](https://github.com/image-rs/image-tiff) - TIFF decoding and encoding library in pure Rust.
 * [netCDF](https://github.com/georust/netcdf) - Bindings for Network Common Data Form (netCDF) library. Can read and write HDF5 files.
+* [N5](https://github.com/aschampion/rust-n5) - N5 "Not HDF5" tensor file system format.
 * [shapefile-rs](https://github.com/tmontaigu/shapefile-rs) - Rust library to read & write shapefiles.
 * [TileJSON](https://github.com/georust/tilejson) - Work with TileJSON files.
 * [Transit](https://github.com/georust/transitfeed) - Work with GTFS files.
