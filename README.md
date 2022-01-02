@@ -29,9 +29,10 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 ### Geospatial primitives and algorithms
 * [Geo](https://github.com/georust/geo) - Geospatial primitives such as Point & LineString, and algorithms such as distance, convex hull, centroidcalculations.
 * [GEOS](https://github.com/georust/geos) - Bindings for the Geometry Engine - Open Source (GEOS) library.
-* [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
 * [spade](https://github.com/Stoeoef/spade) - Spatial datastructures like r-trees and delaunay triangulations for Rust.
+* [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
+* [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib (geodesic calculations).
 * [S2](https://github.com/danhhz/s2) - S2 spherical geometry library in Rust.
 * [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
@@ -62,6 +63,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ### Raster and image processing
 * [rasters.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
+* [geo-rasterize](https://github.com/msalib/geo-rasterize/) - A pure-rust 2D rasterizer for geospatial applications.
 
 ### OSM data handling
 * [osmpbfreader-rs](https://github.com/TeXitoi/osmpbfreader-rs) - Read OpenStreetMap PBF files.
