@@ -53,6 +53,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [GeoZero](https://github.com/georust/geozero) - Zero-Copy reading and writing of geospatial data.
 * [GeoJSON](https://github.com/georust/geojson) - Work with GeoJSON files.
 * [GPX](https://github.com/georust/gpx) - Work with GPS files.
+* [kml](https://github.com/georust/kml) - Rust support for reading and writing KML.
 * [GeoTIFF](https://github.com/georust/geotiff) - Work with GeoTIFF raster files.
 * [image-tiff](https://github.com/image-rs/image-tiff) - TIFF decoding and encoding library in pure Rust.
 * [netCDF](https://github.com/georust/netcdf) - Bindings for Network Common Data Form (netCDF) library. Can read and write HDF5 files.
