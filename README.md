@@ -30,18 +30,23 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Geo](https://github.com/georust/geo) - Geospatial primitives such as Point & LineString, and algorithms such as distance, convex hull, centroidcalculations.
 * [GEOS](https://github.com/georust/geos) - Bindings for the Geometry Engine - Open Source (GEOS) library.
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
-* [spade](https://github.com/Stoeoef/spade) - Spatial datastructures like r-trees and delaunay triangulations for Rust.
 * [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
 * [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib (geodesic calculations).
 * [S2](https://github.com/danhhz/s2) - S2 spherical geometry library in Rust.
 * [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
-* [intersect2d](https://github.com/eadf/intersect2d.rs) - Line intersection sweep-line algorithm
-* [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust
-* [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
-* [earcutr](https://github.com/donbright/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
+* [intersect2d](https://github.com/eadf/intersect2d.rs) - Line intersection sweep-line algorithm.
+* [spatial-join](https://github.com/msalib/spatial-join) - Perform streaming geospatial-joins on geographic data.
 * [tile-grid](https://crates.io/crates/tile-grid) - Library for map tile grid calculations.
 * [zonebuilder](https://github.com/zonebuilders/zonebuilder-rust) - Build zones for large geographic regions.
+
+### Spatial index / Partioning
+* [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
+* [kdbush](https://github.com/pka/rust-kdbush) - A Rust port of kdbush, a fast static spatial index for 2D points.
+* [spade](https://github.com/Stoeoef/spade) - Delaunay Triangulations for the Rust ecosystem.
+* [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
+* [earcutr](https://github.com/donbright/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
+* [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust.
 
 ### Handling GIS data formats
 * [GDAL](https://github.com/georust/gdal) - Bindings for the Geographic Data Abstraction Library (GDAL) for reading and writing raster and vector GIS files.
@@ -73,10 +78,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies
 
 More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
-
-### Spatial index / Search
-* [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
-* [kdbush](https://github.com/pka/rust-kdbush) - A Rust port of kdbush, a fast static spatial index for 2D points.
 
 ### 3D
 * [density mesh](https://github.com/PsichiX/density-mesh) - Image density/height map to mesh generator
