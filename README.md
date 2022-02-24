@@ -39,6 +39,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [spatial-join](https://github.com/msalib/spatial-join) - Perform streaming geospatial-joins on geographic data.
 * [tile-grid](https://crates.io/crates/tile-grid) - Library for map tile grid calculations.
 * [zonebuilder](https://github.com/zonebuilders/zonebuilder-rust) - Build zones for large geographic regions.
+* [Polylabel-rs](https://github.com/urschrei/polylabel-rs) - A Rust implementation of the Polylabel algorithm, with FFI.
 
 ### Spatial index / Partioning
 * [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
