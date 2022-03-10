@@ -23,6 +23,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
     - [Web Services](#web-services)
     - [Map rendering](#map-rendering)
     - [Applications](#applications)
+    - [Watchlist](#watchlist)
 - [Resources](#resources)
     - [Community](#community)
 
@@ -31,7 +32,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [GEOS](https://github.com/georust/geos) - Bindings for the Geometry Engine - Open Source (GEOS) library.
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
 * [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
-* [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib (geodesic calculations).
 * [S2](https://github.com/danhhz/s2) - S2 spherical geometry library in Rust.
 * [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
@@ -107,6 +107,12 @@ More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 * [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 * [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
 * [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
+
+## Watchlist
+
+* [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
+* [coord_transforms](https://github.com/DaveKram/coord_transforms) - Rust crate for performing coordinate transforms.
+* [offset-polygon](https://github.com/anlumo/offset_polygon) - A Rust crate for offsetting (shrinking/expanding) polygons.
 
 ## Resources
 
