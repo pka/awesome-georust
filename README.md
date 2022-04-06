@@ -93,7 +93,6 @@ More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 
 ### Routing
 * [Fast Paths](https://github.com/easbar/fast_paths) - Fast shortest path calculations for Rust.
-* [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
 
 ### Web Services
 * [t-rex](https://t-rex.tileserver.ch/) - Vector tile server specialized on publishing MVT tiles from your own data
@@ -104,7 +103,7 @@ More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 * [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer
 
 ### Applications
-* [A/B Street](https://github.com/dabreegster/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
+* [A/B Street](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 * [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
 * [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
 
@@ -113,6 +112,7 @@ More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 * [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
 * [coord_transforms](https://github.com/DaveKram/coord_transforms) - Rust crate for performing coordinate transforms.
 * [offset-polygon](https://github.com/anlumo/offset_polygon) - A Rust crate for offsetting (shrinking/expanding) polygons.
+* [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
 
 ## Resources
 
