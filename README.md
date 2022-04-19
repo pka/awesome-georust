@@ -29,6 +29,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ### Geospatial primitives and algorithms
 * [Geo](https://github.com/georust/geo) - Geospatial primitives such as Point & LineString, and algorithms such as distance, convex hull, centroidcalculations.
+* [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 * [GEOS](https://github.com/georust/geos) - Bindings for the Geometry Engine - Open Source (GEOS) library.
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
 * [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
@@ -113,6 +114,7 @@ More [crates](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 * [coord_transforms](https://github.com/DaveKram/coord_transforms) - Rust crate for performing coordinate transforms.
 * [offset-polygon](https://github.com/anlumo/offset_polygon) - A Rust crate for offsetting (shrinking/expanding) polygons.
 * [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
+* [Sailor](https://github.com/Yatekii/sailor) - A sailing navigation application.
 
 ## Resources
 
