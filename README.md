@@ -68,6 +68,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [World file](https://github.com/georust/world-file) - Work with World-files.
 * [FlatGeobuf](https://github.com/flatgeobuf/flatgeobuf) - A performant binary encoding for geographic data based on flatbuffers.
 * [las-rs](https://github.com/gadomski/las-rs) - Read and write ASPRS las files.
+* [stac-rs](https://github.com/gadomski/stac-rs) - Rust implementation of the SpatioTemporal Asset Catalog (STAC) specification.
 
 ### Raster and image processing
 * [rasters.rs](https://github.com/AspecScire/rasters.rs) - Raster processing library and tools written in rust.
