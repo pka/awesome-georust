@@ -108,6 +108,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 ### Applications
 * [A/B Street](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 * [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
+* [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer (web and desktop)
 * [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
 
 ## Watchlist
