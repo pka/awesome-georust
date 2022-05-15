@@ -29,7 +29,6 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ### Geospatial primitives and algorithms
 * [Geo](https://github.com/georust/geo) - Geospatial primitives such as Point & LineString, and algorithms such as distance, convex hull, centroidcalculations.
-* [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 * [GEOS](https://github.com/georust/geos) - Bindings for the Geometry Engine - Open Source (GEOS) library.
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
 * [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
@@ -115,7 +114,10 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 
 * [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
 * [coord_transforms](https://github.com/DaveKram/coord_transforms) - Rust crate for performing coordinate transforms.
+* [maplibre-rs](https://github.com/maplibre/maplibre-rs/) - Native Maps for Web, Mobile and Desktop.
+* [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 * [offset-polygon](https://github.com/anlumo/offset_polygon) - A Rust crate for offsetting (shrinking/expanding) polygons.
+* [map-engine](https://gitlab.com/spadarian/map-engine/) - A rust library to work with tiled geospatial (raster) data.
 * [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
 * [Sailor](https://github.com/Yatekii/sailor) - A sailing navigation application.
 
