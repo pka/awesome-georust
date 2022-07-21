@@ -84,8 +84,8 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 
 ### 3D
-* [density mesh](https://github.com/PsichiX/density-mesh) - Image density/height map to mesh generator
-* [startin](https://github.com/hugoledoux/startin) - A Delaunay triangulator for processing TINs
+* [density mesh](https://github.com/PsichiX/density-mesh) - Image density/height map to mesh generator.
+* [startin](https://github.com/hugoledoux/startin) - A Delaunay triangulator for processing TINs.
 
 ### Geocoding
 * [GeoHash](https://github.com/georust/geohash) - Compute geohash of locations.
@@ -94,21 +94,21 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 
 ### Routing
 * [Fast Paths](https://github.com/easbar/fast_paths) - Fast shortest path calculations for Rust.
-* [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies
+* [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies.
 
 ### Web Services
-* [t-rex](https://t-rex.tileserver.ch/) - Vector tile server specialized on publishing MVT tiles from your own data
-* [Martin](https://github.com/urbica/martin) - Blazing fast and lightweight PostGIS vector tiles server
-* [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API 
+* [t-rex](https://t-rex.tileserver.ch/) - Vector tile server specialized on publishing MVT tiles from your own data.
+* [Martin](https://github.com/urbica/martin) - Blazing fast and lightweight PostGIS vector tiles server.
+* [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 
 ### Map rendering
-* [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer
+* [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer.
 
 ### Applications
 * [A/B Street](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 * [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
-* [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer (web and desktop)
-* [WhiteboxTools](https://jblindsay.github.io/ghrg/WhiteboxTools/) - Geospatial data analysis platform with more than 445 tools for processing various types of geospatial data. 
+* [sst](https://github.com/hugoledoux/sst) - streaming startin.
+* [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - Geospatial data analysis platform with more than 465 tools for processing various types of geospatial data. 
 
 ## Watchlist
 
@@ -118,6 +118,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 * [offset-polygon](https://github.com/anlumo/offset_polygon) - A Rust crate for offsetting (shrinking/expanding) polygons.
 * [map-engine](https://gitlab.com/spadarian/map-engine/) - A rust library to work with tiled geospatial (raster) data.
+* [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer (web and desktop).
 * [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
 * [Sailor](https://github.com/Yatekii/sailor) - A sailing navigation application.
 * [OGC API](https://github.com/camptocamp/ogcapi) - OGC API building blocks
