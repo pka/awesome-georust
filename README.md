@@ -121,8 +121,9 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [rgis](https://github.com/frewsxcv/rgis) - Geospatial data viewer (web and desktop).
 * [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
 * [Sailor](https://github.com/Yatekii/sailor) - A sailing navigation application.
-* [OGC API](https://github.com/camptocamp/ogcapi) - OGC API building blocks.
+* [OGC API](https://github.com/georust/ogcapi) - OGC API building blocks.
 * [copc-rs](https://github.com/pka/copc-rs) - COPC reader.
+* [Zarr](https://github.com/sci-rs/zarr) - Rust implementation of the Zarr N-dimensional array format. 
 
 ## Resources
 
