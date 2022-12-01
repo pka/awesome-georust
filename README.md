@@ -99,7 +99,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 
 ### Web Services
 * [t-rex](https://t-rex.tileserver.ch/) - Vector tile server specialized on publishing MVT tiles from your own data.
-* [Martin](https://github.com/urbica/martin) - Blazing fast and lightweight PostGIS vector tiles server.
+* [Martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS vector tiles server.
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 
 ### Map rendering
