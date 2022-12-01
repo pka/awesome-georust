@@ -63,6 +63,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [shapefile-rs](https://github.com/tmontaigu/shapefile-rs) - Rust library to read & write shapefiles.
 * [TileJSON](https://github.com/georust/tilejson) - Work with TileJSON files.
 * [Transit](https://github.com/georust/transitfeed) - Work with GTFS files.
+* [FastGtfs](https://github.com/nicomazz/fastgtfs) - GTFS parsing, navigation, time table creation, and real-time network simulation.
 * [WKT](https://github.com/georust/wkt) - Work with Well-Known Text (WKT) files.
 * [World file](https://github.com/georust/world-file) - Work with World-files.
 * [FlatGeobuf](https://github.com/flatgeobuf/flatgeobuf) - A performant binary encoding for geographic data based on flatbuffers.
