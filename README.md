@@ -125,6 +125,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [OGC API](https://github.com/georust/ogcapi) - OGC API building blocks.
 * [copc-rs](https://github.com/pka/copc-rs) - COPC reader.
 * [Zarr](https://github.com/sci-rs/zarr) - Rust implementation of the Zarr N-dimensional array format. 
+* [pasture](https://github.com/Mortano/pasture) - A Rust library for working with point cloud data.
 
 ## Resources
 
