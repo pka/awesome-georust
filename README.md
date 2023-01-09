@@ -126,6 +126,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [copc-rs](https://github.com/pka/copc-rs) - COPC reader.
 * [Zarr](https://github.com/sci-rs/zarr) - Rust implementation of the Zarr N-dimensional array format. 
 * [pasture](https://github.com/Mortano/pasture) - A Rust library for working with point cloud data.
+* [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 
 ## Resources
 
