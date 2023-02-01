@@ -127,6 +127,9 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Zarr](https://github.com/sci-rs/zarr) - Rust implementation of the Zarr N-dimensional array format. 
 * [pasture](https://github.com/Mortano/pasture) - A Rust library for working with point cloud data.
 * [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
+* [bevy-potree](https://github.com/ForesightMiningSoftwareCorporation/bevy-potree)
+* [cogbuilder](https://github.com/fintelia/cogbuilder)
+* [vrt-file](https://github.com/fintelia/vrt-file)
 
 ## Resources
 
