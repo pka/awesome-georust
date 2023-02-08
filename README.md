@@ -131,6 +131,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [bevy-potree](https://github.com/ForesightMiningSoftwareCorporation/bevy-potree)
 * [cogbuilder](https://github.com/fintelia/cogbuilder)
 * [vrt-file](https://github.com/fintelia/vrt-file)
+* [PlanetVectorTile](https://github.com/planet-vector-tile/planet-vector-tile) - A map engine enabling you to have the entire map of the OSM planet on your own computer.
 
 ## Resources
 
