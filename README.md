@@ -132,6 +132,8 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [cogbuilder](https://github.com/fintelia/cogbuilder)
 * [vrt-file](https://github.com/fintelia/vrt-file)
 * [PlanetVectorTile](https://github.com/planet-vector-tile/planet-vector-tile) - A map engine enabling you to have the entire map of the OSM planet on your own computer.
+* [GeoPolars](https://github.com/geopolars/geopolars) - Geospatial extensions for Polars.
+* [country-geocoder](https://github.com/a-b-street/country-geocoder) - Reverse geocode WGS84 coordinates to an ISO country-code.
 
 ## Resources
 
