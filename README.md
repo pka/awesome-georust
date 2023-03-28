@@ -46,7 +46,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [kdbush](https://github.com/pka/rust-kdbush) - A Rust port of kdbush, a fast static spatial index for 2D points.
 * [spade](https://github.com/Stoeoef/spade) - Delaunay Triangulations for the Rust ecosystem.
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
-* [earcutr](https://github.com/donbright/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
+* [earcutr](https://github.com/frewsxcv/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
 * [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust.
 
 ### Handling GIS data formats
