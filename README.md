@@ -116,6 +116,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 ## Watchlist
 
 * [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
+* [Miniproj](https://git.geomar.de/flemming-staebler/miniproj) - Geographic transformations between different coordinate systems defined by the European Petroleum Survey Group.
 * [coord_transforms](https://github.com/DaveKram/coord_transforms) - Rust crate for performing coordinate transforms.
 * [maplibre-rs](https://github.com/maplibre/maplibre-rs/) - Native Maps for Web, Mobile and Desktop.
 * [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
@@ -136,8 +137,13 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [country-geocoder](https://github.com/a-b-street/country-geocoder) - Reverse geocode WGS84 coordinates to an ISO country-code.
 * [Skeleton Tracing](https://github.com/LingDong-/skeleton-tracing/tree/master/rs) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images.
 * [poly2tri-rs](https://github.com/shuoli84/poly2tri-rs) - Calculate CDT (Constrained Delaunay Triangulation) on a polygon.
+* [PMTiles (for Rust)](https://github.com/stadiamaps/pmtiles-rs) - Rust implementation of PMTiles
+* [PMTiles (for Rust)](https://github.com/arma-place/pmtiles-rs) - Low level implementation of the PMTiles format 
 
 ## Resources
+
+### crates.io
+* Category [Science::Geospatial](https://crates.io/categories/science::geo)
 
 ### Community
 * [Discord](https://discord.gg/Fp2aape) - GeoRust Discord channel
