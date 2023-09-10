@@ -82,6 +82,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [osm-transit-extractor](https://github.com/CanalTP/osm-transit-extractor) - Extract OSM public transport data and write to CSV files.
 * [Pbfextractor](https://github.com/Lesstat/pbfextractor) - Create graph files out of OSM and SRTM data
 * [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
+* [osm-lump-ways](https://github.com/amandasaurus/osm-lump-ways) - Group OSM ways based on topology & shared tags
 
 More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 
@@ -138,7 +139,9 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Skeleton Tracing](https://github.com/LingDong-/skeleton-tracing/tree/master/rs) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images.
 * [poly2tri-rs](https://github.com/shuoli84/poly2tri-rs) - Calculate CDT (Constrained Delaunay Triangulation) on a polygon.
 * [PMTiles (for Rust)](https://github.com/stadiamaps/pmtiles-rs) - Rust implementation of PMTiles
-* [PMTiles (for Rust)](https://github.com/arma-place/pmtiles-rs) - Low level implementation of the PMTiles format 
+* [PMTiles (for Rust)](https://github.com/arma-place/pmtiles-rs) - Low level implementation of the PMTiles format
+* [Proj4rs](https://github.com/3liz/proj4rs) - Rust adaptation of Proj4
+* [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings 
 
 ## Resources
 
