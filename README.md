@@ -32,6 +32,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [GEOS](https://github.com/georust/geos) - Bindings for the Geometry Engine - Open Source (GEOS) library.
 * [Robust](https://github.com/georust/robust) - Robust primitives for computational geometry.
 * [PROJ](https://github.com/georust/proj) - Bindings for the PROJ library for coordinate transformation and projections.
+* [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A geodesy library written in Rust.
 * [geographiclib-rs](https://github.com/georust/geographiclib-rs) - A port of geographiclib (geodesic calculations).
 * [S2](https://github.com/danhhz/s2) - S2 spherical geometry library in Rust.
 * [rust-geo-booleanop](https://github.com/21re/rust-geo-booleanop) - Rust implementation of the Martinez-Rueda Polygon Clipping Algorithm.
@@ -40,6 +41,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [tile-grid](https://crates.io/crates/tile-grid) - Library for map tile grid calculations.
 * [zonebuilder](https://github.com/zonebuilders/zonebuilder-rust) - Build zones for large geographic regions.
 * [Polylabel-rs](https://github.com/urschrei/polylabel-rs) - A Rust implementation of the Polylabel algorithm, with FFI.
+* [cheap-ruler-rs](https://github.com/vipera/cheap-ruler-rs) - Collection of very fast approximations to common geodesic measurements.
 
 ### Spatial index / Partioning
 * [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
@@ -116,7 +118,6 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 
 ## Watchlist
 
-* [Rust Geodesy](https://github.com/busstoptaktik/geodesy/) - A platform for experiments with geodetic software, transformations, and standards.
 * [Miniproj](https://git.geomar.de/flemming-staebler/miniproj) - Geographic transformations between different coordinate systems defined by the European Petroleum Survey Group.
 * [coord_transforms](https://github.com/DaveKram/coord_transforms) - Rust crate for performing coordinate transforms.
 * [maplibre-rs](https://github.com/maplibre/maplibre-rs/) - Native Maps for Web, Mobile and Desktop.
@@ -142,6 +143,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [PMTiles (for Rust)](https://github.com/arma-place/pmtiles-rs) - Low level implementation of the PMTiles format
 * [Proj4rs](https://github.com/3liz/proj4rs) - Rust adaptation of Proj4
 * [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings 
+* [Louvre](https://github.com/acheul/louvre) - Computational Geometry Library with Rust
 
 ## Resources
 
