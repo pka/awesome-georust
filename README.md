@@ -62,9 +62,11 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [netCDF](https://github.com/georust/netcdf) - Bindings for Network Common Data Form (netCDF) library. Can read and write HDF5 files.
 * [hdf5-rust](https://github.com/aldanor/hdf5-rust) - Thread-safe Rust bindings and high-level wrappers for the HDF5 library API.
 * [N5](https://github.com/aschampion/rust-n5) - N5 "Not HDF5" tensor file system format.
+* [RINEX](https://github.com/georust/rinex) - RINEX analysis & and processing.
 * [shapefile-rs](https://github.com/tmontaigu/shapefile-rs) - Rust library to read & write shapefiles.
 * [TileJSON](https://github.com/georust/tilejson) - Work with TileJSON files.
 * [Transit](https://github.com/georust/transitfeed) - Work with GTFS files.
+* [transit_model](https://github.com/hove-io/transit_model) - Manage, convert and enrich transit data.
 * [FastGtfs](https://github.com/nicomazz/fastgtfs) - GTFS parsing, navigation, time table creation, and real-time network simulation.
 * [gtfs-structures](https://github.com/rust-transit/gtfs-structure) - Read GTFS files into structs, with smart references.
 * [WKT](https://github.com/georust/wkt) - Work with Well-Known Text (WKT) files.
@@ -145,6 +147,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Proj4rs](https://github.com/3liz/proj4rs) - Rust adaptation of Proj4
 * [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings 
 * [Louvre](https://github.com/acheul/louvre) - Computational Geometry Library with Rust
+* [gpkg-rs](https://github.com/cjriley9/gpkg-rs) - A Rust crate for reading and writing GeoPackages.
 
 ## Resources
 
