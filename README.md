@@ -148,6 +148,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings 
 * [Louvre](https://github.com/acheul/louvre) - Computational Geometry Library with Rust
 * [gpkg-rs](https://github.com/cjriley9/gpkg-rs) - A Rust crate for reading and writing GeoPackages.
+* [georaster](https://github.com/pka/georaster) - Rust library for accessing geospatial raster images (GeoTIFF).
 
 ## Resources
 
