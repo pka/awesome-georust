@@ -16,7 +16,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
     - [Handling GIS data formats](#handling-gis-data-formats)
     - [Raster and image processing](#raster-and-image-processing)
     - [OSM data handling](#osm-data-handling)
-    - [Spatial index / Search](#spatial-index--search)
+    - [Spatial index / Partioning](#spatial-index--partioning)
     - [3D](#3d)
     - [Geocoding](#geocoding)
     - [Routing](#routing)
