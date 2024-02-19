@@ -150,6 +150,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [gpkg-rs](https://github.com/cjriley9/gpkg-rs) - A Rust crate for reading and writing GeoPackages.
 * [georaster](https://github.com/pka/georaster) - Rust library for accessing geospatial raster images (GeoTIFF).
 * [sif-rtree](https://github.com/adamreichold/sif-rtree) and [sif-kdtree](https://github.com/adamreichold/sif-kdtree) - R and K-D trees which can be memory-mapped directly from disk.
+* [geo-index](https://github.com/kylebarron/geo-index) - Packed, static, zero-copy spatial indexes (R-tree and k-d tree).
 * [jord](https://github.com/ofmooseandmen/jord-rs) - Geographical Position Calculations (spherical + ellipsoidal models and local frames).
 * [tzf-rs](https://github.com/ringsaturn/tzf-rs) - Get timezone via longitude&latitude in Rust in a fast way
 
