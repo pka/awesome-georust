@@ -153,6 +153,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [geo-index](https://github.com/kylebarron/geo-index) - Packed, static, zero-copy spatial indexes (R-tree and k-d tree).
 * [jord](https://github.com/ofmooseandmen/jord-rs) - Geographical Position Calculations (spherical + ellipsoidal models and local frames).
 * [tzf-rs](https://github.com/ringsaturn/tzf-rs) - Get timezone via longitude&latitude in Rust in a fast way
+* [geometry-rs](https://github.com/ringsaturn/geometry-rs) - Partial port of tidwall/geometry (efficient 2D geometry library for Go).
 
 ## Resources
 
