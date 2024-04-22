@@ -94,6 +94,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 ### 3D
 * [density mesh](https://github.com/PsichiX/density-mesh) - Image density/height map to mesh generator.
 * [startin](https://github.com/hugoledoux/startin) - A Delaunay triangulator for processing TINs.
+* [geom3d](https://github.com/J-F-Liu/geom3d) - Data structures and algorithms for 3D geometric modeling.
 
 ### Geocoding
 * [GeoHash](https://github.com/georust/geohash) - Compute geohash of locations.
@@ -117,7 +118,8 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
 * [rgis](https://github.com/frewsxcv/rgis) - Performant, cross-platform (web, desktop) GIS app written in Rust 
 * [sst](https://github.com/hugoledoux/sst) - streaming startin.
-* [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - Geospatial data analysis platform with more than 465 tools for processing various types of geospatial data. 
+* [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - Geospatial data analysis platform with more than 465 tools for processing various types of geospatial data.
+* [Ferrostar](https://github.com/stadiamaps/ferrostar) - A FOSS navigation SDK built from the ground up for the future.
 
 ## Watchlist
 
