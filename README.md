@@ -87,6 +87,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [osm-transit-extractor](https://github.com/CanalTP/osm-transit-extractor) - Extract OSM public transport data and write to CSV files.
 * [Pbfextractor](https://github.com/Lesstat/pbfextractor) - Create graph files out of OSM and SRTM data
 * [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
+* [osmx](https://github.com/jake-low/osmx-rs) - Rust port of OSMExpress, a fast database file format for OpenStreetMap.
 * [osm-lump-ways](https://github.com/amandasaurus/osm-lump-ways) - Group OSM ways based on topology & shared tags
 
 More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/reverse_dependencies)
@@ -159,6 +160,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [pasture](https://github.com/Mortano/pasture) - Rust library for point cloud processing.
 * [rout3serv](https://github.com/nmandery/rout3serv) - H3-grid based Routing server with GRPC-API and dataframe integration.
 * [Airmail](https://github.com/ellenhp/airmail) - Lightweight geocoder in pure Rust.
+* [geoserde](https://github.com/p4ken/geoserde) - Adapter between geographic feature and GIS files.
 
 ## Resources
 
