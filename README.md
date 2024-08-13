@@ -129,6 +129,8 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [maplibre-rs](https://github.com/maplibre/maplibre-rs/) - Native Maps for Web, Mobile and Desktop.
 * [RGeometry](https://github.com/rgeometry/rgeometry) - Computational Geometry library written in Rust.
 * [offset-polygon](https://github.com/anlumo/offset_polygon) - A Rust crate for offsetting (shrinking/expanding) polygons.
+* [polygon-offsetting](https://github.com/Akirami/polygon-offsetting) - Offset a polygon (only margin).
+* [Cavalier Contours](https://github.com/jbuckmccready/cavalier_contours) - 2D polyline/shape library for offsetting, combining, etc.
 * [map-engine](https://gitlab.com/spadarian/map-engine/) - A rust library to work with tiled geospatial (raster) data.
 * [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
 * [Sailor](https://github.com/Yatekii/sailor) - A sailing navigation application.
