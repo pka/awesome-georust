@@ -163,6 +163,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [rout3serv](https://github.com/nmandery/rout3serv) - H3-grid based Routing server with GRPC-API and dataframe integration.
 * [Airmail](https://github.com/ellenhp/airmail) - Lightweight geocoder in pure Rust.
 * [geoserde](https://github.com/p4ken/geoserde) - Adapter between geographic feature and GIS files.
+* [geojson-vt-rs](https://github.com/maxammann/geojson-vt-rs) - Crate for slicing GeoJSON into vector tiles on the fly.
 
 ## Resources
 
