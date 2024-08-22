@@ -165,6 +165,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [geoserde](https://github.com/p4ken/geoserde) - Adapter between geographic feature and GIS files.
 * [geojson-vt-rs](https://github.com/maxammann/geojson-vt-rs) - Crate for slicing GeoJSON into vector tiles on the fly.
 * [The Roaring Landmask](https://github.com/gauteh/roaring-landmask) - A fast and memory-limited landmask based on GSHHG for determing whether a point on Earth is on land or in the ocean.
+* [Galileo](https://github.com/Maximkaaa/galileo) - General purpose cross-platform geo-rendering library.
 
 ## Resources
 
