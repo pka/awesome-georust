@@ -107,9 +107,10 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies.
 
 ### Web Services
-* [t-rex](https://t-rex.tileserver.ch/) - Vector tile server specialized on publishing MVT tiles from your own data.
+* [t-rex](https://github.com/t-rex-tileserver/t-rex) - Vector tile server specialized on publishing MVT tiles from your own data.
 * [Martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS vector tiles server.
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
+* [BBOX services](https://github.com/bbox-services/bbox) - Composable spatial services.
 
 ### Map rendering
 * [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer.
@@ -166,6 +167,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [geojson-vt-rs](https://github.com/maxammann/geojson-vt-rs) - Crate for slicing GeoJSON into vector tiles on the fly.
 * [The Roaring Landmask](https://github.com/gauteh/roaring-landmask) - A fast and memory-limited landmask based on GSHHG for determing whether a point on Earth is on land or in the ocean.
 * [Galileo](https://github.com/Maximkaaa/galileo) - General purpose cross-platform geo-rendering library.
+* [Gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - 3D Gaussian Splatting renderer for WebAssembly with lock-free multithreading.
 
 ## Resources
 
