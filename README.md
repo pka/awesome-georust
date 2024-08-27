@@ -168,6 +168,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [The Roaring Landmask](https://github.com/gauteh/roaring-landmask) - A fast and memory-limited landmask based on GSHHG for determing whether a point on Earth is on land or in the ocean.
 * [Galileo](https://github.com/Maximkaaa/galileo) - General purpose cross-platform geo-rendering library.
 * [Gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - 3D Gaussian Splatting renderer for WebAssembly with lock-free multithreading.
+* [utiles](https://github.com/jessekrubin/utiles) - utils & tiles w/ (rs & pyo3).
 
 ## Resources
 
