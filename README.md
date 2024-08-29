@@ -150,6 +150,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [poly2tri-rs](https://github.com/shuoli84/poly2tri-rs) - Calculate CDT (Constrained Delaunay Triangulation) on a polygon.
 * [PMTiles (for Rust)](https://github.com/stadiamaps/pmtiles-rs) - Rust implementation of PMTiles
 * [PMTiles (for Rust)](https://github.com/arma-place/pmtiles-rs) - Low level implementation of the PMTiles format
+* [s2-pmtiles](https://github.com/Open-S2/s2-pmtiles) - Read/Write PMTiles V3.0 as well as S2PMTiles V1.0
 * [Proj4rs](https://github.com/3liz/proj4rs) - Rust adaptation of Proj4
 * [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings 
 * [Louvre](https://github.com/acheul/louvre) - Computational Geometry Library with Rust
@@ -169,6 +170,8 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Galileo](https://github.com/Maximkaaa/galileo) - General purpose cross-platform geo-rendering library.
 * [Gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - 3D Gaussian Splatting renderer for WebAssembly with lock-free multithreading.
 * [utiles](https://github.com/jessekrubin/utiles) - utils & tiles w/ (rs & pyo3).
+* [earclip](https://github.com/Open-S2/earclip) - Triangle mesh designed to be fast, efficient, and sphere capable.
+
 
 ## Resources
 
