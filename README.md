@@ -171,6 +171,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Gauzilla](https://github.com/BladeTransformerLLC/gauzilla) - 3D Gaussian Splatting renderer for WebAssembly with lock-free multithreading.
 * [utiles](https://github.com/jessekrubin/utiles) - utils & tiles w/ (rs & pyo3).
 * [earclip](https://github.com/Open-S2/earclip) - Triangle mesh designed to be fast, efficient, and sphere capable.
+* [iOverlay](https://github.com/iShape-Rust/iOverlay) - Boolean Operations for 2D Polygons: Supports intersection, union, difference, xor, and self-intersections for all polygon varieties.
 
 
 ## Resources
