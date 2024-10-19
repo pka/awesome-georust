@@ -105,6 +105,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 ### Routing
 * [Fast Paths](https://github.com/easbar/fast_paths) - Fast shortest path calculations for Rust.
 * [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies.
+* [routrs](https://github.com/routrs/routrs) - Geograph-based shortest distance calculation for Rust.
 
 ### Web Services
 * [t-rex](https://github.com/t-rex-tileserver/t-rex) - Vector tile server specialized on publishing MVT tiles from your own data.
@@ -118,7 +119,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 ### Applications
 * [A/B Street](https://github.com/a-b-street/abstreet) - A traffic simulation game exploring how small changes to roads affect cyclists, transit users, pedestrians, and drivers.
 * [Geo Engine](https://github.com/geo-engine/geoengine) - Cloud-ready geospatial data processing platform with workflows, raster *and* vector support and OGC-compliant interfaces.
-* [rgis](https://github.com/frewsxcv/rgis) - Performant, cross-platform (web, desktop) GIS app written in Rust 
+* [rgis](https://github.com/frewsxcv/rgis) - Performant, cross-platform (web, desktop) GIS app written in Rust
 * [sst](https://github.com/hugoledoux/sst) - streaming startin.
 * [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - Geospatial data analysis platform with more than 465 tools for processing various types of geospatial data.
 * [Ferrostar](https://github.com/stadiamaps/ferrostar) - A FOSS navigation SDK built from the ground up for the future.
@@ -152,7 +153,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [PMTiles (for Rust)](https://github.com/arma-place/pmtiles-rs) - Low level implementation of the PMTiles format
 * [s2-pmtiles](https://github.com/Open-S2/s2-pmtiles) - Read/Write PMTiles V3.0 as well as S2PMTiles V1.0
 * [Proj4rs](https://github.com/3liz/proj4rs) - Rust adaptation of Proj4
-* [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings 
+* [Proj4wkt](https://github.com/3liz/proj4wkt-rs) - Parse WKT to Proj strings
 * [Louvre](https://github.com/acheul/louvre) - Computational Geometry Library with Rust
 * [gpkg-rs](https://github.com/cjriley9/gpkg-rs) - A Rust crate for reading and writing GeoPackages.
 * [georaster](https://github.com/pka/georaster) - Rust library for accessing geospatial raster images (GeoTIFF).
