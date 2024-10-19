@@ -11,20 +11,22 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 
 ## Contents
 
-- [Awesome Geo Rust](#awesome-geo-rust-)
+- [Awesome Geo Rust ](#awesome-geo-rust-)
+  - [Contents](#contents)
     - [Geospatial primitives and algorithms](#geospatial-primitives-and-algorithms)
+    - [Spatial index / Partioning](#spatial-index--partioning)
     - [Handling GIS data formats](#handling-gis-data-formats)
     - [Raster and image processing](#raster-and-image-processing)
     - [OSM data handling](#osm-data-handling)
-    - [Spatial index / Partioning](#spatial-index--partioning)
     - [3D](#3d)
     - [Geocoding](#geocoding)
     - [Routing](#routing)
     - [Web Services](#web-services)
     - [Map rendering](#map-rendering)
     - [Applications](#applications)
-    - [Watchlist](#watchlist)
-- [Resources](#resources)
+  - [Watchlist](#watchlist)
+  - [Resources](#resources)
+    - [crates.io](#cratesio)
     - [Community](#community)
 
 ### Geospatial primitives and algorithms
@@ -103,6 +105,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data).
 
 ### Routing
+* [routrs](https://github.com/routrs/routrs) - Geograph-based shortest distance calculation for Rust.
 * [Fast Paths](https://github.com/easbar/fast_paths) - Fast shortest path calculations for Rust.
 * [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies.
 
