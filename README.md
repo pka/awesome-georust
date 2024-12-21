@@ -89,6 +89,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [osmflat](https://github.com/boxdot/osmflat-rs) - OpenStreetMap flatdata format and compiler.
 * [osmx](https://github.com/jake-low/osmx-rs) - Rust port of OSMExpress, a fast database file format for OpenStreetMap.
 * [osm-lump-ways](https://github.com/amandasaurus/osm-lump-ways) - Group OSM ways based on topology & shared tags
+* [osm-pbf-parquet](https://github.com/OvertureMaps/osm-pbf-parquet) - Transcode OSM PBF file to parquet files.
 
 More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 
@@ -173,6 +174,8 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [utiles](https://github.com/jessekrubin/utiles) - utils & tiles w/ (rs & pyo3).
 * [earclip](https://github.com/Open-S2/earclip) - Triangle mesh designed to be fast, efficient, and sphere capable.
 * [iOverlay](https://github.com/iShape-Rust/iOverlay) - Boolean Operations for 2D Polygons: Supports intersection, union, difference, xor, and self-intersections for all polygon varieties.
+* [farebox](https://github.com/ellenhp/farebox) - Multimodal routing in Rust.
+* [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 
 
 ## Resources
