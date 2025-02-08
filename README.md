@@ -180,6 +180,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [farebox](https://github.com/ellenhp/farebox) - Multimodal routing in Rust.
 * [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [anime](https://github.com/JosiahParry/anime) - Approximate Network Matching, Integration, and Enrichment.
+* [rusterize](https://github.com/ttrotto/rusterize) - High performance rasterization tool for python built in Rust.
 
 
 ## Resources
