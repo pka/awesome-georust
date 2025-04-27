@@ -42,14 +42,22 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [zonebuilder](https://github.com/zonebuilders/zonebuilder-rust) - Build zones for large geographic regions.
 * [Polylabel-rs](https://github.com/urschrei/polylabel-rs) - A Rust implementation of the Polylabel algorithm, with FFI.
 * [cheap-ruler-rs](https://github.com/vipera/cheap-ruler-rs) - Collection of very fast approximations to common geodesic measurements.
+* [flat-projection](https://github.com/Turbo87/flat-projection-rs) - Fast geodesic distance approximations via flat surface projection.
 
 ### Spatial index / Partioning
 * [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
+* [kdtree](https://github.com/mrhooray/kdtree-rs) - K-dimensional tree in Rust for fast geospatial indexing and nearest neighbors lookup
+* [sif-rtree](https://github.com/adamreichold/sif-rtree) and [sif-kdtree](https://github.com/adamreichold/sif-kdtree) - R and K-D trees which can be memory-mapped directly from disk.
+* [geo-index](https://github.com/kylebarron/geo-index) - Fast, immutable, ABI-stable spatial indexes.
 * [kdbush](https://github.com/pka/rust-kdbush) - A Rust port of kdbush, a fast static spatial index for 2D points.
+* [static-bushes](https://github.com/apendleton/static-bushes) - Port of the Flatbush and KDBush JS libraries to Rust.
 * [spade](https://github.com/Stoeoef/spade) - Delaunay Triangulations for the Rust ecosystem.
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
 * [earcutr](https://github.com/frewsxcv/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
 * [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust.
+* [geo-quadkey-rs](https://github.com/masaishi/geo-quadkey-rs) - Rust library for encoding and decoding geographical coordinates to and from QuadKeys.
+* [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
+* [Quadbin](https://github.com/atsyplenkov/qbin) - Hierarchical geospatial index tiling, similar to Quadkey.
 
 ### Handling GIS data formats
 * [GDAL](https://github.com/georust/gdal) - Bindings for the Geographic Data Abstraction Library (GDAL) for reading and writing raster and vector GIS files.
@@ -144,7 +152,6 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [copc-rs](https://github.com/pka/copc-rs) - COPC reader.
 * [zarrs](https://github.com/LDeakin/zarrs) - A rust library for the Zarr V3 storage format for multidimensional arrays and metadata.
 * [pasture](https://github.com/Mortano/pasture) - A Rust library for working with point cloud data.
-* [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 * [bevy-potree](https://github.com/ForesightMiningSoftwareCorporation/bevy-potree)
 * [cogbuilder](https://github.com/fintelia/cogbuilder)
 * [vrt-file](https://github.com/fintelia/vrt-file)
@@ -161,8 +168,6 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Louvre](https://github.com/acheul/louvre) - Computational Geometry Library with Rust
 * [gpkg-rs](https://github.com/cjriley9/gpkg-rs) - A Rust crate for reading and writing GeoPackages.
 * [georaster](https://github.com/pka/georaster) - Rust library for accessing geospatial raster images (GeoTIFF).
-* [sif-rtree](https://github.com/adamreichold/sif-rtree) and [sif-kdtree](https://github.com/adamreichold/sif-kdtree) - R and K-D trees which can be memory-mapped directly from disk.
-* [geo-index](https://github.com/kylebarron/geo-index) - Packed, static, zero-copy spatial indexes (R-tree and k-d tree).
 * [jord](https://github.com/ofmooseandmen/jord-rs) - Geographical Position Calculations (spherical + ellipsoidal models and local frames).
 * [tzf-rs](https://github.com/ringsaturn/tzf-rs) - Get timezone via longitude&latitude in Rust in a fast way
 * [geometry-rs](https://github.com/ringsaturn/geometry-rs) - Partial port of tidwall/geometry (efficient 2D geometry library for Go).
