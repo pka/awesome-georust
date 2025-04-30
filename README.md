@@ -149,7 +149,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [rust_road_router](https://github.com/kit-algo/rust_road_router) - Rust routing framework and toolkit.
 * [Sailor](https://github.com/Yatekii/sailor) - A sailing navigation application.
 * [OGC API](https://github.com/georust/ogcapi) - OGC API building blocks.
-* [copc-rs](https://github.com/pka/copc-rs) - COPC reader.
+* [copc-rs](https://github.com/pka/copc-rs) - Cloud Optimized Point Cloud (COPC) reader and writer.
 * [zarrs](https://github.com/LDeakin/zarrs) - A rust library for the Zarr V3 storage format for multidimensional arrays and metadata.
 * [pasture](https://github.com/Mortano/pasture) - A Rust library for working with point cloud data.
 * [bevy-potree](https://github.com/ForesightMiningSoftwareCorporation/bevy-potree)
@@ -157,6 +157,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [vrt-file](https://github.com/fintelia/vrt-file)
 * [PlanetVectorTile](https://github.com/planet-vector-tile/planet-vector-tile) - A map engine enabling you to have the entire map of the OSM planet on your own computer.
 * [GeoPolars](https://github.com/geopolars/geopolars) - Geospatial extensions for Polars.
+* [Polars ST](https://github.com/Oreilles/polars-st) - Spatial extension for Polars DataFrames.
 * [country-geocoder](https://github.com/a-b-street/country-geocoder) - Reverse geocode WGS84 coordinates to an ISO country-code.
 * [Skeleton Tracing](https://github.com/LingDong-/skeleton-tracing/tree/master/rs) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images.
 * [poly2tri-rs](https://github.com/shuoli84/poly2tri-rs) - Calculate CDT (Constrained Delaunay Triangulation) on a polygon.
