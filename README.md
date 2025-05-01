@@ -117,6 +117,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [osm_ch](https://github.com/Stunkymonkey/osm_ch) - OSM-Contraction-Hierarchies.
 * [routrs](https://github.com/routrs/routrs) - Geograph-based shortest distance calculation for Rust.
 * [rustworkx](https://github.com/Qiskit/rustworkx) - A high-performance, general-purpose graph library for Python, written in Rust.
+* [RouteE Compass](https://github.com/NREL/routee-compass) - An energy-aware vehicle routing engine.
 
 ### Web Services
 * [t-rex](https://github.com/t-rex-tileserver/t-rex) - Vector tile server specialized on publishing MVT tiles from your own data.
