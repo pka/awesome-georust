@@ -43,6 +43,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [Polylabel-rs](https://github.com/urschrei/polylabel-rs) - A Rust implementation of the Polylabel algorithm, with FFI.
 * [cheap-ruler-rs](https://github.com/vipera/cheap-ruler-rs) - Collection of very fast approximations to common geodesic measurements.
 * [flat-projection](https://github.com/Turbo87/flat-projection-rs) - Fast geodesic distance approximations via flat surface projection.
+* [sguaba](https://github.com/helsing-ai/sguaba) - Types for points and vectors in coordinate spaces and transformations based on rigid body transforms.
 
 ### Spatial index / Partioning
 * [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
