@@ -55,6 +55,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [spade](https://github.com/Stoeoef/spade) - Delaunay Triangulations for the Rust ecosystem.
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
 * [earcutr](https://github.com/frewsxcv/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
+* [iTriangle](https://github.com/iShape-Rust/iTriangle) - A fast, stable, and robust 2d triangulation library.
 * [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust.
 * [geo-quadkey-rs](https://github.com/masaishi/geo-quadkey-rs) - Rust library for encoding and decoding geographical coordinates to and from QuadKeys.
 * [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
