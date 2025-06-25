@@ -44,6 +44,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [cheap-ruler-rs](https://github.com/vipera/cheap-ruler-rs) - Collection of very fast approximations to common geodesic measurements.
 * [flat-projection](https://github.com/Turbo87/flat-projection-rs) - Fast geodesic distance approximations via flat surface projection.
 * [sguaba](https://github.com/helsing-ai/sguaba) - Types for points and vectors in coordinate spaces and transformations based on rigid body transforms.
+* [geocentric-rs](https://github.com/ciscorn/geocentric-rs) - Conversion between geodetic (geographic) and geocentric (cartesian) coordinates.
 
 ### Spatial index / Partioning
 * [rstar](https://github.com/georust/rstar) - R\*-tree library for the rust ecosystem.
