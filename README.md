@@ -127,6 +127,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS vector tiles server.
 * [Hecate](https://github.com/mapbox/Hecate) - Fast Geospatial Feature Storage API.
 * [BBOX services](https://github.com/bbox-services/bbox) - Composable spatial services.
+* [MVT Server](https://github.com/mvt-proj/mvt-rs) - Simple and high-speed vector tile server with a built-in web-based admin interface.
 
 ### Map rendering
 * [osm-renderer](https://github.com/dfyz/osm-renderer) - OpenStreetMap raster tile renderer.
@@ -191,6 +192,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [anime](https://github.com/JosiahParry/anime) - Approximate Network Matching, Integration, and Enrichment.
 * [rusterize](https://github.com/ttrotto/rusterize) - High performance rasterization tool for python built in Rust.
+* [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Maplibre legend generator crate.
 
 
 ## Resources
