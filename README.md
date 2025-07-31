@@ -140,6 +140,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [WhiteboxTools](https://github.com/jblindsay/whitebox-tools) - Geospatial data analysis platform with more than 465 tools for processing various types of geospatial data.
 * [Ferrostar](https://github.com/stadiamaps/ferrostar) - A FOSS navigation SDK built from the ground up for the future.
 * [Arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
+* [Karttapullautin](https://github.com/karttapullautin/karttapullautin) - A fast and accurate map generator from classified LiDAR data.
 
 ## Watchlist
 
