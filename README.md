@@ -194,6 +194,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [anime](https://github.com/JosiahParry/anime) - Approximate Network Matching, Integration, and Enrichment.
 * [rusterize](https://github.com/ttrotto/rusterize) - High performance rasterization tool for python built in Rust.
 * [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Maplibre legend generator crate.
+* [geocart](https://github.com/HectorMRC/geocart) - A bridge between geographic and cartesian coordinates.
 
 
 ## Resources
