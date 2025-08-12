@@ -113,7 +113,8 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 ### Geocoding
 * [GeoHash](https://github.com/georust/geohash) - Compute geohash of locations.
 * [Geocoding](https://github.com/georust/geocoding) - Enrich addresses, cities, countries with geographic coordinates through third-party geocoding web services.
-* [Mimirsbrunn](https://github.com/CanalTP/mimirsbrunn) - Geocoding and reverse-geocoding (with OSM data).
+* [Airmail](https://github.com/ellenhp/airmail) - Lightweight geocoder in pure Rust.
+* [country-boundaries](https://github.com/westnordost/country-boundaries-rust) - A fast offline reverse geocoder: Find the area in which a geo position is located.
 
 ### Routing
 * [Fast Paths](https://github.com/easbar/fast_paths) - Fast shortest path calculations for Rust.
@@ -164,7 +165,6 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [PlanetVectorTile](https://github.com/planet-vector-tile/planet-vector-tile) - A map engine enabling you to have the entire map of the OSM planet on your own computer.
 * [GeoPolars](https://github.com/geopolars/geopolars) - Geospatial extensions for Polars.
 * [Polars ST](https://github.com/Oreilles/polars-st) - Spatial extension for Polars DataFrames.
-* [country-geocoder](https://github.com/a-b-street/country-geocoder) - Reverse geocode WGS84 coordinates to an ISO country-code.
 * [Skeleton Tracing](https://github.com/LingDong-/skeleton-tracing/tree/master/rs) - A new algorithm for retrieving topological skeleton as a set of polylines from binary images.
 * [poly2tri-rs](https://github.com/shuoli84/poly2tri-rs) - Calculate CDT (Constrained Delaunay Triangulation) on a polygon.
 * [PMTiles (for Rust)](https://github.com/stadiamaps/pmtiles-rs) - Rust implementation of PMTiles
@@ -180,7 +180,6 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [geometry-rs](https://github.com/ringsaturn/geometry-rs) - Partial port of tidwall/geometry (efficient 2D geometry library for Go).
 * [pasture](https://github.com/Mortano/pasture) - Rust library for point cloud processing.
 * [rout3serv](https://github.com/nmandery/rout3serv) - H3-grid based Routing server with GRPC-API and dataframe integration.
-* [Airmail](https://github.com/ellenhp/airmail) - Lightweight geocoder in pure Rust.
 * [geoserde](https://github.com/p4ken/geoserde) - Adapter between geographic feature and GIS files.
 * [geojson-vt-rs](https://github.com/maxammann/geojson-vt-rs) - Crate for slicing GeoJSON into vector tiles on the fly.
 * [The Roaring Landmask](https://github.com/gauteh/roaring-landmask) - A fast and memory-limited landmask based on GSHHG for determing whether a point on Earth is on land or in the ocean.
@@ -189,7 +188,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [utiles](https://github.com/jessekrubin/utiles) - utils & tiles w/ (rs & pyo3).
 * [earclip](https://github.com/Open-S2/earclip) - Triangle mesh designed to be fast, efficient, and sphere capable.
 * [iOverlay](https://github.com/iShape-Rust/iOverlay) - Boolean Operations for 2D Polygons: Supports intersection, union, difference, xor, and self-intersections for all polygon varieties.
-* [farebox](https://github.com/ellenhp/farebox) - Multimodal routing in Rust.
+* [Solari](https://github.com/ellenhp/solari) - Multimodal routing in Rust.
 * [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [anime](https://github.com/JosiahParry/anime) - Approximate Network Matching, Integration, and Enrichment.
 * [rusterize](https://github.com/ttrotto/rusterize) - High performance rasterization tool for python built in Rust.
