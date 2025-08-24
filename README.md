@@ -194,6 +194,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [rusterize](https://github.com/ttrotto/rusterize) - High performance rasterization tool for python built in Rust.
 * [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Maplibre legend generator crate.
 * [geocart](https://github.com/HectorMRC/geocart) - A bridge between geographic and cartesian coordinates.
+* [Bevy Point Cloud](https://github.com/rlamarche/bevy_pointcloud) - A Bevy plugin to render point clouds.
 
 
 ## Resources
