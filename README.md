@@ -142,6 +142,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Ferrostar](https://github.com/stadiamaps/ferrostar) - A FOSS navigation SDK built from the ground up for the future.
 * [Arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 * [Karttapullautin](https://github.com/karttapullautin/karttapullautin) - A fast and accurate map generator from classified LiDAR data.
+* [SedonaDB](https://github.com/apache/sedona-db) - Single-node analytical database engine with geospatial as the first-class citizen.
 
 ## Watchlist
 
