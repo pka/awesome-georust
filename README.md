@@ -55,6 +55,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [static-bushes](https://github.com/apendleton/static-bushes) - Port of the Flatbush and KDBush JS libraries to Rust.
 * [spade](https://github.com/Stoeoef/spade) - Delaunay Triangulations for the Rust ecosystem.
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
+3 [Delatin](https://github.com/pokhanto/delatin-rs) - Simple and fast TIN generation library,
 * [earcutr](https://github.com/frewsxcv/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
 * [iTriangle](https://github.com/iShape-Rust/iTriangle) - A fast, stable, and robust 2d triangulation library.
 * [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust.
@@ -189,6 +190,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [utiles](https://github.com/jessekrubin/utiles) - utils & tiles w/ (rs & pyo3).
 * [earclip](https://github.com/Open-S2/earclip) - Triangle mesh designed to be fast, efficient, and sphere capable.
 * [iOverlay](https://github.com/iShape-Rust/iOverlay) - Boolean Operations for 2D Polygons: Supports intersection, union, difference, xor, and self-intersections for all polygon varieties.
+* [linesweeper](https://github.com/jneem/linesweeper) - Two-dimensional geometric primitives like boolean operations on sets bounded by Bézier paths.
 * [Solari](https://github.com/ellenhp/solari) - Multimodal routing in Rust.
 * [plateau-gis-converter](https://github.com/MIERUNE/plateau-gis-converter) - A GUI and CLI tool for converting PLATEAU's 3D city models (CityGML) of Japan into various geospatial formats, including 3D Tiles, MVT, and GeoPackage.
 * [anime](https://github.com/JosiahParry/anime) - Approximate Network Matching, Integration, and Enrichment.
