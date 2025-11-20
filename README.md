@@ -144,6 +144,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [Arnis](https://github.com/louis-e/arnis) - Generate any location from the real world in Minecraft Java Edition with a high level of detail.
 * [Karttapullautin](https://github.com/karttapullautin/karttapullautin) - A fast and accurate map generator from classified LiDAR data.
 * [SedonaDB](https://github.com/apache/sedona-db) - Single-node analytical database engine with geospatial as the first-class citizen.
+* [Vector Tile Builder](https://github.com/ShogoHirasawa/web-vector-tile-maker) - Web application for generating vector tiles in the browser
 
 ## Watchlist
 
