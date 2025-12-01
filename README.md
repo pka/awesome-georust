@@ -62,6 +62,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [geo-quadkey-rs](https://github.com/masaishi/geo-quadkey-rs) - Rust library for encoding and decoding geographical coordinates to and from QuadKeys.
 * [h3o](https://github.com/HydroniumLabs/h3o) - Rust implementation of the H3 geospatial indexing system.
 * [Quadbin](https://github.com/atsyplenkov/qbin) - Hierarchical geospatial index tiling, similar to Quadkey.
+* [A5](https://a5geo.org/docs/quickstart/rust) - Rust library for the A5 geospatial indexing system, a new alternative to S2 and H3 using irregular, equilateral pentagons.
 
 ### Handling GIS data formats
 * [GDAL](https://github.com/georust/gdal) - Bindings for the Geographic Data Abstraction Library (GDAL) for reading and writing raster and vector GIS files.
