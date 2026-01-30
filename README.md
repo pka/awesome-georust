@@ -123,6 +123,7 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [routrs](https://github.com/routrs/routrs) - Geograph-based shortest distance calculation for Rust.
 * [rustworkx](https://github.com/Qiskit/rustworkx) - A high-performance, general-purpose graph library for Python, written in Rust.
 * [RouteE Compass](https://github.com/NREL/routee-compass) - An energy-aware vehicle routing engine.
+* [Routers](https://github.com/routers-org/routers) - Set of routing tools designed for system-agnostic maps.
 
 ### Web Services
 * [t-rex](https://github.com/t-rex-tileserver/t-rex) - Vector tile server specialized on publishing MVT tiles from your own data.
@@ -199,7 +200,9 @@ More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/rev
 * [maplibre-legend](https://github.com/mvt-proj/maplibre-legend) - Maplibre legend generator crate.
 * [geocart](https://github.com/HectorMRC/geocart) - A bridge between geographic and cartesian coordinates.
 * [Bevy Point Cloud](https://github.com/rlamarche/bevy_pointcloud) - A Bevy plugin to render point clouds.
-* [CGAR](https://github.com/aseverino/cgar) - Computational Geometry Algorithms for Rust
+* [CGAR](https://github.com/aseverino/cgar) - Computational Geometry Algorithms for Rust.
+* [etiles](https://github.com/tum-gis/etiles) - A Rust library for processing 3D Tiles data.
+* [rusqlite-gpkg](https://github.com/yutannihilation/rusqlite-gpkg) - GeoPackage reader/writer built on top of rusqlite.
 
 
 ## Resources
