@@ -103,6 +103,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [osmx](https://github.com/jake-low/osmx-rs) - Rust port of OSMExpress, a fast database file format for OpenStreetMap.
 * [osm-lump-ways](https://github.com/amandasaurus/osm-lump-ways) - Group OSM ways based on topology & shared tags
 * [osm-pbf-parquet](https://github.com/OvertureMaps/osm-pbf-parquet) - Transcode OSM PBF file to parquet files.
+* [cosmo](https://codeberg.org/mvexel/cosmo) - Filter & transform OSM PBF data to geoparquet or geojson.
 
 More crates based on [osmpbfreader-rs](https://crates.io/crates/osmpbfreader/reverse_dependencies)
 
