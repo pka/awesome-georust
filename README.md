@@ -57,6 +57,7 @@ Contributions welcome. Add links through [pull requests](https://github.com/pka/
 * [delaunator-rs](https://github.com/mourner/delaunator-rs) - A very fast static 2D Delaunay triangulation library for Rust.
 3 [Delatin](https://github.com/pokhanto/delatin-rs) - Simple and fast TIN generation library,
 * [earcutr](https://github.com/frewsxcv/earcutr) - Port of MapBox's earcut triangulation code to Rust language.
+* [earcut-rs](https://github.com/ciscorn/earcut-rs) - Port of the Earcut polygon triangulation library with performance in mind.
 * [iTriangle](https://github.com/iShape-Rust/iTriangle) - A fast, stable, and robust 2d triangulation library.
 * [boostvoronoi](https://github.com/eadf/boostvoronoi.rs) - Segmented Voronoi for Rust.
 * [geo-quadkey-rs](https://github.com/masaishi/geo-quadkey-rs) - Rust library for encoding and decoding geographical coordinates to and from QuadKeys.
